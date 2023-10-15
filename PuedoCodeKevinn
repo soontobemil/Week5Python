@@ -1,0 +1,9 @@
+#PuedoCode
+
+# First get a passcode from google / gmail
+# Secondly Import neccesary libraries
+# Third Define a function to send an email
+# Fourth Define the function to handle button click for sending email
+# Create the main application window
+# Create labels, text boxes 
+# Create a loop to determine if the email is going to sent x times 
