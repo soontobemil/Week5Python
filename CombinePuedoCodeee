@@ -1,0 +1,14 @@
+Combined Code
+#1. Begin by obtaining a passcode from Google or Gmail.
+#2. Next, establish the parameters for the host, recipient, and context.
+#3. Proceed to create the line of code responsible for both logging in and sending the email.
+#4. Import necessary API Key.
+#5. Generate a request along with the relevant date.
+#6. Compose the message content and initiate the email transmission
+
+
+#7. Next, bring in the essential libraries through import.
+#8. Establish a function for sending emails. 
+#9. Define the function responsible for handling button clicks to send emails.
+#10. Set up labels and text boxes.
+#11. Implement a loop to determine if the email will be sent a specified number of times.
