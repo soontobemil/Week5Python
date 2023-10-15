@@ -1,0 +1,8 @@
+#PuedoCode
+
+# First get a passcode from google / gmail 
+# Second Define host, reciever, and context
+# Third make the line that does the login and sendemail
+# Fourth import Api Key
+# Fifth, make a request and date
+# Sixth write text to send and send email
